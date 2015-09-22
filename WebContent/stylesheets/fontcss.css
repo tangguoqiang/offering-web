@@ -1,0 +1,9 @@
+
+ @font-face {
+	font-family: '方正兰亭黑';
+	src: url('GBK1.TTF'); /* IE9 Compat Modes */
+  src: url('GBK1.TTF') format('truetype'), /* IE6-IE8 */
+    
+	
+	<!--src: local('hakuyoxingshu7000 Regular'), local('hakuyoxingshu7000'), url('stylesheets/FZLTKHK_GBK.TTF.TTF') format('truetype')-->;
+} 
