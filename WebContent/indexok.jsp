@@ -85,10 +85,10 @@
 					<p class="info1 left1">最优质的大学生求职咨询和交流平台</p>
 					<p class="left1" style=" display:inline">
 						<a class="app-store line-left"> 
-							<img src="images/download.png"  class="img-responsive"  alt=""> 
+							<img style="cursor: pointer;" src="images/download.png"  class="img-responsive"  alt=""> 
 						</a>
-						<a class="line-left" style="margin-left: 10px;"> 
-							<img id="becomeGreater" src="images/become-a-mentor.png"  class="img-responsive"  alt=""> 
+						<a class="line-left mobile-hide" style="margin-left: 10px;"> 
+							<img id="becomeGreater" style="cursor: pointer;" src="images/become-a-mentor.png"  class="img-responsive"  alt=""> 
 						</a>
 					</p>
 				</div>
