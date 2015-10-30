@@ -82,7 +82,7 @@
 					<figure class="figureInfo">
 						<img class="img-responsive" src="images/logo.png" alt="">
 					</figure>
-					<p class="info1 left1">最优质的大学生求职咨询和交流平台</p>
+					<p class="info1 left1">专注于大学生的c2c职业咨询及轻社交平台</p>
 					<p class="left1" style=" display:inline">
 						<a class="app-store line-left"> 
 							<img style="cursor: pointer;" src="images/download.png"  class="img-responsive"  alt=""> 
@@ -102,78 +102,15 @@
 		</div>
 		<!-- /.container -->
 	</header>
-	<!-- /.jumbotron -->
-	<!-- 模态框（Modal） -->
-	<div class="modal fade" id="myModal" tabindex="11" role="dialog"
-		aria-labelledby="myModalLabel" aria-hidden="true">
-		<div class="modal-dialog">
-			<div class="modal-content">
-
-				<div class="modal-body container1">
-					<!--   <div class="container  modal-container">  -->
-					<div class="column-left">
-						<div class="down">
-							<P>直接下载</p>
-						</div>
-						<div class="and-ip">
-							<img class="iphoneimg img-responsive " src="images/iphonedown.png"
-								alt=""/ id="iphoneDown"> <img class="adndroidimg img-responsive"
-								src="images/androiddown.png" alt="" onclick="androidDown();"/>
-						</div>
-					</div>
-					<!--<div class="column-right">
-						<div class="tip">
-							<P>扫描二维码下载</p>
-						</div>
-
-						<div>
-
-
-							<img src="images/twocode.png" class="img-responsive"
-								style="padding:8px; border:1px solid #ebb701 ;border-radius:10px ;max-width: 80%;  height: auto;" alt="" />
-						</div>
-					</div>-->
-
-
-					<!--   </div>  -->
-				</div>
-				<div class="modal-footer  footerlocal">
-					<P>也可在AppStore，豌豆荚直接搜索“offering”</p>
-				</div>
-			</div>
-			<!-- /.modal-content -->
-		</div>
-		<!-- /.modal -->
-	</div>
 	
-	<div class="modal fade" id="iosModal">
-	  	<div class="row" style="margin-top: 85px;">
-	  		<div class="col-md-offset-8 col-sm-4 col-xs-6 col-md-4">
-	  			<img src="images/arrow.png">
-	  		</div>
-	  	</div>
-	  	<div class="row" style="margin-top: 85px;">
-	  		<div class="col-sm-12 col-xs-18 col-md-12">
-	  			<p style="font-size: 48px;text-align:center;color:#FFFFFF;font-weight: bolder;">点击右上角，选择在浏览器中打开，等你哦！</p>
-	  		</div>
-	  	</div>
-	</div>
-
 	<!-- Features -->
 	<section class="features-section part1" id="section-1">
 		<div class="container">
-
-
-
 			<div class="row media-screen-800">
 				<div class="col-md-6 col-features features-content">
-
-					<!-- Title -->
 					<h3 id="title-2">
 						<img class="infro-img img-responsive" src="images/1-1.png" alt="">
 					</h3>
-					<!-- Description -->
-
 					<div class="infor">
 						<div>关心心仪企业人才招聘政策,没关系,HR随时在线,让你第一时间了解。</div>
 					</div>
@@ -181,36 +118,21 @@
 				</div>
 				<!-- /.col-md-7 -->
 				<div class="col-md-6 col-features text-center">
-
-					<!-- Images showcase -->
 					<figure>
 						<img
 							class="infor-bigimg "
 							src="images/1.png" alt="">
 					</figure>
 				</div>
-				<!-- /.col-md-5 -->
-
 			</div>
-			<!-- /.row -->
-
-
 		</div>
-		<!-- /.container -->
 	</section>
-	<!-- /.features-section -->
-
-
-
-
-
+	
 	<!-- Features -->
 	<section class="features-section part2" id="section-2">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-features text-center">
-
-					<!-- Images showcase -->
 					<figure>
 						<img class="infor-bigimg " src="images/2.png" alt="">
 					</figure>
@@ -227,25 +149,13 @@
 						<div>即使毕业，他们仍在这里传道授惑。</div>
 					</div>
 				</div>
-				<!-- /.col-md-7 -->
-
 			</div>
-			<!-- /.row -->
-
-
-
 		</div>
-		<!-- /.container -->
 	</section>
-	<!-- /.features-section -->
-
 
 	<!-- Features -->
 	<section class="features-section part3" id="section-3">
 		<div class="container">
-
-
-
 			<div class="row media-screen-800">
 				<div class=" col-md-6 ">
 
@@ -261,26 +171,15 @@
 				</div>
 				<!-- /.col-md-7 -->
 				<div class="col-md-6 col-features text-center">
-
-					<!-- Images showcase -->
 					<figure>
 						<img
 							class="infor-bigimg "
 							src="images/3.png" alt="">
 					</figure>
 				</div>
-				<!-- /.col-md-5 -->
-
 			</div>
-			<!-- /.row -->
-
-
-
 		</div>
-		<!-- /.container -->
 	</section>
-	<!-- /.features-section -->
-
 
 	<!-- Footer -->
 	<footer class="footer-section" role="contentinfo">
@@ -324,15 +223,8 @@
 				<div class="col-md-2 col-footer col-padding">
 					<img class="footdown " src="images/twocode.png" alt="">
 				</div>
-				<!-- /.col-md-4 -->
-
 			</div>
-			<!-- /.row -->
-
-
-
 		</div>
-		<!-- /.container -->
 		<hr />
 
 		<div class="container">
@@ -349,6 +241,44 @@
 		<!-- /.container -->
 	</footer>
 	<!-- /.footer-section -->
+	
+	<!-- 模态框（Modal） -->
+	<div class="modal fade" id="myModal" tabindex="11" role="dialog"
+		aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+					<div style="width: 100%;">
+						<div>
+							<P>直接下载</p>
+						</div>
+						<div style="width: 100%;">
+							<img class="iphoneimg img-responsive " src="images/iphonedown.png"
+								alt="" id="iphoneDown"/> 
+							<img class="adndroidimg img-responsive"
+								src="images/androiddown.png" alt="" onclick="androidDown();"/>
+						</div>
+					</div>
+					<!--<div class="column-right">
+						<div class="tip">
+							<P>扫描二维码下载</p>
+						</div>
+
+						<div>
+
+
+							<img src="images/twocode.png" class="img-responsive"
+								style="padding:8px; border:1px solid #ebb701 ;border-radius:10px ;max-width: 80%;  height: auto;" alt="" />
+						</div>
+					</div>-->
+					<!--   </div>  -->
+				</div>
+				<div class="modal-footer  footerlocal">
+					<P>也可在AppStore，豌豆荚直接搜索“offering”</p>
+				</div>
+			</div>
+		</div>
+	</div>
 <!--  core CSS -->
 <link href="stylesheets/application.css" rel="stylesheet">
 <link href="stylesheets/fontcss.css" rel="stylesheet">
