@@ -35,7 +35,7 @@
 
 
 <!-- Favicons -->
-<link href="images/favicon/favicon.png" rel="shortcut icon">
+<link href="images/favicon/favicon.ico" rel="shortcut icon">
 <link href="images/favicon/apple-touch-icon-57-precomposed.png"
 	rel="apple-touch-icon">
 <link href="images/favicon/apple-touch-icon-72-precomposed.png"
